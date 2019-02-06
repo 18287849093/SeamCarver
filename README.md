@@ -1,0 +1,2 @@
+# SeamCarver
+SeamCarver Algorithm
